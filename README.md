@@ -1,4 +1,4 @@
-# get_naxt_line
+# get_next_line
 
 ## Goal
 
